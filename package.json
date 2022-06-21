@@ -1,0 +1,24 @@
+{
+  "name": "circle.onchain.js",
+  "version": "0.1.0",
+  "description": "A micro JS library with circle-related utility functions.",
+  "main": "circle.onchain.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/onchainjs/circle.onchain.js.git"
+  },
+  "author": "Wout <hi@wout.codes>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "jasmine": "^4.1.0",
+    "prng.onchain.js": "github:onchainjs/prng.onchain.js"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "bugs": {
+    "url": "https://github.com/onchainjs/circle.onchain.js/issues"
+  },
+  "homepage": "https://github.com/onchainjs/circle.onchain.js#readme"
+}
